@@ -241,7 +241,7 @@ main {
 }
 
 .donation-card {
-    background: #f8f9fa;
+    background: #e8be64;
     padding: 2rem;
     border-radius: 10px;
 }
@@ -255,8 +255,8 @@ main {
 
 .amount-btn {
     background: #fff;
-    border: 1px solid #3498db;
-    color: #3498db;
+    border: 1px solid #e12a8f;
+    color: #101112;
     padding: 0.5rem;
     border-radius: 5px;
     cursor: pointer;
@@ -285,7 +285,7 @@ main {
 
 /* Impact section */
 .impact-section {
-    background: #f8f9fa;
+    background: #388ce0;
     padding: 4rem 5%;
     text-align: center;
 }
@@ -299,7 +299,7 @@ main {
 }
 
 .impact-card {
-    background: white;
+    background: rgb(233, 207, 207);
     padding: 2rem;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
